@@ -18,9 +18,10 @@ var c = 6;
 // var 1dgjy = 'rop'
 // var 'ghuyj' = 'vhu'
 
-// ques no 3 a)
-// var heading = 'RULES FOR NAMING JS VARIABLES '
-// document.write(heading)
+// ques no 3 
+// a)
+var heading = 'RULES FOR NAMING JS VARIABLES '
+document.write(heading)
 // b
 var $your_name69variable = 'that is_my$118variable'
 document.write($your_name69variable);
@@ -30,4 +31,4 @@ document.write(just);
 // d
 // java script is a case sensitive
 // e
-// variable name should not be keyword for example var alert = 'pushpa'
+// variable name should not be keyword for (example var alert = 'pushpa')

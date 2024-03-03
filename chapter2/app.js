@@ -8,16 +8,16 @@ var myName = 'moiz tahir';
 console.log(myName);
 
 // ques no 3)
-// var message = "hello world";
-// alert(message);
+var message = "hello world";
+alert(message);
 
 // // ques no 4)
-// var studentBio = 'moiz';
-// alert(studentBio);
-// studentBio = '15years';
-// alert(studentBio);
-// studentBio = 'certified mobile application development';
-// alert(studentBio);
+var studentBio = 'moiz';
+alert(studentBio);
+studentBio = '15years';
+alert(studentBio);
+studentBio = 'certified mobile application development';
+alert(studentBio);
 
 // // ques no 5)
 var food = 'pizza \n pizz \n piz \n pi \n p';
